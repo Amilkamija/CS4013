@@ -5,6 +5,7 @@ In this project we have to apply OOP to design and develop a software applicatio
 Requirement : Build a Payroll System for UL Staff.(Look into Project Specifications).
 
 Document Requirements:
+
 1.CRC(Class Responsibility Collaboration Cards) , can be made in word.
 
 2.UML class diagram showing the realtionship between the classes.). It must show the relationships between the classes (class inheritance, interface inheritance, aggregation, dependency as appropriate) and utilising the notation presented in lecture slides (please refer to the slides). This UML diagram must be generated manually and drawn using a tool like draw.io.
